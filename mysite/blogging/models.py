@@ -16,4 +16,4 @@ class Category(models.Model):
     
     name = models.CharField(max_length = 128)
     description = models.TextField(blank=True)
-    posts = models.ForeignKey(Post)
+    posts = models.ManyToManyField(Post, blank=True, related_name='categories')
