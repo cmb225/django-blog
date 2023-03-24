@@ -7,7 +7,7 @@ coverage==6.2
 dill==0.3.4
 distlib==0.3.6
 Django==3.2.18
-filelock==3.8.2
+filelock==3.4.1
 Flask==2.2.2
 Flask-RESTful==0.3.9
 iniconfig==1.1.1
