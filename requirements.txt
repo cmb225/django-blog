@@ -22,7 +22,7 @@ packaging==21.3
 pandas==1.1.5
 pbr==5.11.0
 peewee==3.14.10
-platformdirs==2.5.2
+platformdirs==2.4.0
 pluggy==1.0.0
 py==1.11.0
 pylint==2.14.0
