@@ -35,7 +35,7 @@ six==1.16.0
 SQLAlchemy==1.4.40
 sqlparse==0.4.3
 stevedore==3.5.2
-tomli==2.0.1
+tomli==1.2.3
 tomlkit==0.11.0
 virtualenv==20.17.1
 virtualenv-clone==0.5.7
