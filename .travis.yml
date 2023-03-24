@@ -5,4 +5,5 @@ install:
   - pip install -r requirements.txt
   - python3 mysite/manage.py migrate
 script:
-  - python3 mysite/manage.py test
+  - python3 mysite/manage.py test blogging
+  - python3 mysite/manage.py test polling
