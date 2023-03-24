@@ -3,7 +3,7 @@ asgiref==3.4.1
 astroid==2.11.5
 attrs==22.1.0
 click==8.0.4
-coverage==6.4.1
+coverage==6.2
 dill==0.3.4
 distlib==0.3.6
 Django==4.1.7
