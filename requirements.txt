@@ -2,7 +2,7 @@ aniso8601==9.0.1
 asgiref==3.4.1
 astroid==2.11.5
 attrs==22.1.0
-black==23.1.0
+black==22.8.0
 click==8.0.4
 coverage==6.2
 dill==0.3.4
