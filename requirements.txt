@@ -22,7 +22,7 @@ lazy-object-proxy==1.7.1
 MarkupSafe==2.0.1
 mccabe==0.7.0
 mypy-extensions==1.0.0
-numpy==1.19.5
+numpy==1.19.0
 packaging==21.3
 pandas==1.1.5
 pathspec==0.9.0
