@@ -8,6 +8,7 @@ class PostSerializer(serializers.HyperlinkedModelSerializer):
         model = models.Post
         fields = ['title', 
                   'text',
+                  'author',
                   'created_date',
                   'modified_date',
                   'published_date']
