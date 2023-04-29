@@ -26,6 +26,7 @@ router.register(r'categories', views.CategoryViewSet)
 urlpatterns = [
     path("", include("blogging.urls")),
     path("polling/", include("polling.urls")),
+    path("users/", include("api.urls")),
     path("admin/", admin.site.urls),
     path("login/", LoginView.as_view(template_name="login.html"), name="login"),
     path("logout/", LogoutView.as_view(next_page="/"), name="logout"),
