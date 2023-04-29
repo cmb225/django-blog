@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "polling",
     "blogging",
+    "api",
     "rest_framework",
 ]
 
